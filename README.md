@@ -160,31 +160,31 @@ that you get different output!
 <tbody>
 <tr>
 <td><code>0.0000001</code></td>
-<td>&nbsp;</td>
+<td><code>Pack a sun shelter!</code></td>
 </tr>
 <tr>
 <td><code>0.2</code></td>
-<td>&nbsp;</td>
+<td><code>Pack a sun shelter!</code></td>
 </tr>
 <tr>
 <td><code>0.2000001</code></td>
-<td>&nbsp;</td>
+<td><code>Pack a sun shelter!</code></td>
 </tr>
 <tr>
 <td><code>0.3</code></td>
-<td>&nbsp;</td>
+<td><code>Pack an umbrella!</code></td>
 </tr>
 <tr>
 <td><code>0.9</code></td>
-<td>&nbsp;</td>
+<td><code>Stay home and read Hegel.</code></td>
 </tr>
 <tr>
 <td><code>1000</code></td>
-<td>&nbsp;</td>
+<td><code>Stay home and read Hegel.</code></td>
 </tr>
 <tr>
 <td><code>-23</code></td>
-<td>&nbsp;</td>
+<td><code>Pack a sun shelter!</code></td>
 </tr>
 </tbody>
 </table>
